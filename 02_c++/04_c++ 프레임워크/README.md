@@ -5,7 +5,6 @@
 1.2. Vulkan
 1.3. SFML (Simple and Fast Multimedia Library)
 1.4. SDL (Simple DirectMedia Layer)
-1.5. Qt
 
 #### 2. GUI 프레임워크 (GUI Frameworks)
 2.1. Qt

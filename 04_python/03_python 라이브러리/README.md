@@ -37,6 +37,7 @@
 7. **네트워킹**  
    - requests  
    - urllib  
+   - socket
    - websockets  
 
 8. **데이터 시리얼라이제이션**  
